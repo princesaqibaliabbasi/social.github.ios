@@ -1,0 +1,72 @@
+body{
+background-color: rgb(235,231,213);
+font-family: 'PT Serif', serif;
+
+
+}
+
+#c2:hover{
+background-color: white;
+color: rgb(0,88,88);
+font-weight: bolder;
+
+}
+#d4:hover{
+box-shadow: 8px 8px 10px 2px black;
+transition-duration: 2s;
+
+
+}
+
+#d5:hover{
+    box-shadow: 0px 5px 10px 12px black;
+    transition-duration: 2s;
+    
+    
+    }
+ #g1:hover{
+    box-shadow: 8px 8px 10px 2px black;
+    transition-duration: 2s;
+    
+
+ }   
+#p2:hover{
+    box-shadow: 8px 8px 10px 2px black;
+    transition-duration: 2s;
+
+
+
+}
+
+
+#d1:hover{
+border-radius: 20px;
+background-color: rgb(0,91,145);
+
+}
+
+#d1-1:hover{
+    border-radius: 20px;
+    background-color: rgb(194, 208, 216);
+    color: white;
+
+    }
+    
+
+#c15:hover{
+    background-color: rgb(0,91,145);
+    border: 2px solid rgb(0,91,145);
+    font-weight: bolder;
+    color: white;
+    }
+#d2:hover{
+    background-color: white;
+    color: rgb(0,88,88);
+    font-weight: bolder;
+        
+    }
+#p2:hover{
+    /* box-shadow: 7px 5px 10px 12px rgb(27, 83, 204);
+     */
+}
+

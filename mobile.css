@@ -1,0 +1,90 @@
+@media only screen and (max-width: 600px){
+#a1{
+display: grid;
+
+}
+
+#b1{
+font-size: 50px;
+
+
+}
+#b2{
+display: none;
+
+}
+
+#b3{
+display: none;
+
+}
+#c1{
+height: 400px;
+position: relative;
+top: 40px;
+
+
+}
+
+#c2{
+position: relative;
+bottom: 5px;
+
+}
+#d1{
+text-align: center;
+
+
+}
+#d4{
+height: 250px;
+position: relative;
+left: 8px;
+
+}
+#d4-n{
+position: relative;
+bottom: 230px;
+left: 0px;
+}
+
+
+#d5{
+    height: 200px;
+    display: none;    
+    
+    
+    }
+  #e3{
+    position: relative;
+    bottom: 30px;
+   
+  }
+   #e5{
+    margin-top: 30px;
+
+
+   } 
+   #p2{
+    height: 260px;
+
+
+   }
+#get{
+position: relative;
+left: 30px;
+
+}
+
+#legal{
+  position: relative;
+  left: 130px;
+  
+  }
+  
+
+
+
+
+
+} 
